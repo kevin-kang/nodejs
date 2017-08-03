@@ -1,0 +1,32 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">请及时联系客服说明情况，重新制</span><span style=\"font-size:10.5pt;font-family:&quot;\">Key</span><span style=\"font-size:10.5pt;font-family:宋体;\">，需</span><span style=\"font-size:10.5pt;font-family:&quot;\">5-10</span><span style=\"font-size:10.5pt;font-family:宋体;\">个工作日，制</span><span style=\"font-size:10.5pt;font-family:&quot;\">Key</span><span style=\"font-size:10.5pt;font-family:宋体;\">完成后会通知客户领取。</span>",
+            "title": "ukey损坏怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">请联系在线客服说明情况。</span>",
+            "title": "ukey丢失后，无法成功登陆，怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">若收到新</span><span>Key</span><span style=\"font-family:宋体;\">后，旧</span><span>Key</span><span style=\"font-family:宋体;\">将自动失效，为了确保账户安全，建议重置密码。</span>",
+            "title": "新Key和旧Key能否同时进行操作？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">资金风险，建议尽快通知客服，修改密码，锁定账户。</span>",
+            "title": "Key丢失后会发生什么风险？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">需要。</span>",
+            "title": "Key是否需要工本费？"
+        }
+    }
+]
